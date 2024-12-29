@@ -1,0 +1,48 @@
+
+h2{
+    font-size: 0.75rem;
+
+}
+
+.cards-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+}
+
+.card {
+    width: 175px;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.card--c{
+    border-radius: 9px;
+    padding: 0px 20px;
+}
+
+.card--stats{
+    display: flex;
+    align-items:center;
+    padding:2.5px 4px;
+}
+
+.gray{
+    /* display: flex; */
+    /* align-items:center; */
+    padding:0px 2.5px;
+    color: #918E9B;;
+
+}
+
+.card--star {
+    height:14px;
+}
+
+.bold{
+    font-weight: bold;
+}
