@@ -1,3 +1,15 @@
+# AirBnB Landing Page
+
+This is a clone of the AirBnB landing page built using React.
+
+![Landing Page Screenshot](src/img/Screenshot.png "AirBnB Landing Page Screenshot")
+
+## Features
+- Responsive Design
+- React Components
+- Styled with CSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
